@@ -17,3 +17,11 @@ https://docs.docker.com/compose/install/
 Install MongoDB Community
 
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+
+## OpenAPI - Swagger
+
+https://swagger.io/specification/
+
+```
+http://localhost:8080/swagger-ui.html
+```
