@@ -7,6 +7,7 @@
 - Kafka
 - Java 11
 - Spring Tools
+- Angular
 
 ## Docker Compose
 
