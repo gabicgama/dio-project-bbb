@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 public class CastModel {
 
 	@Id
-	private String key;
+	private String id;
 	private String name;
 
 }

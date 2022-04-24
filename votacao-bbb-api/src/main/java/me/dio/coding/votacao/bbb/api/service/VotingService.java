@@ -14,7 +14,7 @@ public class VotingService {
 
 	private final KafkaTemplate<Object, Object> template;
 
-	public void addEvent(CastModel person) {
-		template.send(TOPIC_VOTING, person);
+	public void addEvent(CastModel cast) {
+		template.send(TOPIC_VOTING, cast);
 	}
 }

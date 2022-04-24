@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 public class ParansModel {
 
 	@Id
-	private String key;
+	private String id;
 	private String value;
 
 }
